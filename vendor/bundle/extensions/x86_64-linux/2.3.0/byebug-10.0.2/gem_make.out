@@ -1,0 +1,19 @@
+current directory: /usr/local/google/home/ewappel/blog/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+/usr/bin/ruby2.3 -r ./siteconf20180911-132907-1l9bfm0.rb extconf.rb
+creating Makefile
+
+current directory: /usr/local/google/home/ewappel/blog/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /usr/local/google/home/ewappel/blog/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: /usr/local/google/home/ewappel/blog/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20180911-132907-sh1e38/byebug
